@@ -7,6 +7,12 @@ I am deeply curious about all things in pharmacometrics and biostatistics. I des
 
 Collaboration on research project is very much welcomed! 🤝
 
+--- 
+### Sharing my notebook 
+
+I love to write and consider sharing what I learn a great joy. In my free time (sadly, these are rare now.....), I typically write about research findings that does not make it into the papers or some coding skills that I find valuable to jot down. The notebook can be accessed <a href="https://wenyao-mak.netlify.app">here</a>.
+
+---
 
 
 <!--
