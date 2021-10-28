@@ -1,6 +1,6 @@
-(https://github.com/WenYao-Mak/WenYao-Mak/header.png "Header")]
+#[![Header](https://raw.githubusercontent.com/WenYao-Mak/WenYao-Mak/main/header.png)]
 
-### Hi there 👋 omg omg omg
+
 
 <!--
 **WenYao-Mak/WenYao-Mak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
